@@ -4,7 +4,7 @@ Steps for installing NS3 tool in Ubuntu
 
 1. Download the script from terminal
 
->  wget https://github.com/hritikParate/NS3-Installation/blob/main/ns3-Installation.sh
+>  wget https://raw.githubusercontent.com/hritikParate/NS3-Installation/main/ns3-Installation.sh
 
 
 
